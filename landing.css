@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    background-image: url("./key.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    background-repeat: no-repeat; 
+    color: white;
+    resize: both;
+    background-size: 50vh;
+
+ }
+ h1{
+     text-align: center;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 80px;
+ }
